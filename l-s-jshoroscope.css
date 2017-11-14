@@ -1,0 +1,15 @@
+body {
+    background-color:mistyrose;
+    text-align: center;
+    font-size:25px;
+    color: mediumturquoise;
+}
+h1 {
+    color:mediumturquoise;
+}
+p {
+    color:mediumpurple;
+}
+#myDiv {
+    font-size: 36px;
+}
